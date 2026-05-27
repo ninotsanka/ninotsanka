@@ -5,5 +5,6 @@
 
 
 <h2>🤳Connect with me:</h2>
+<h1>LinkedIn <a href="https://www.linkedin.com/in/nino-tsanka/">IT Professional</a></h1>
 
-<a href="https://www.linkedin.com/in/nino-tsanka/">
+
