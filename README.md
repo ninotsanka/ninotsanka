@@ -1,11 +1,9 @@
-## Hi there 👋
+<h1>Hi, I'm Nino, an aspiring IT Professional</a></h1>
 
-<h1>Hi, I'm Nino! <br/> </h1>
-
-
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h2>🤳Connect with me:</h2>
 
+<a href="https://www.linkedin.com/in/nino-tsanka/">
