@@ -4,6 +4,8 @@
 
 
 
-<h1>🤳Connect with me:</h1>
+<h>🤳Connect with me:</h>
+
 [<img align="left" alt="Nino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://linkedin.com/in/nino-tsanka
